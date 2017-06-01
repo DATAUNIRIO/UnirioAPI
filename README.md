@@ -1,4 +1,4 @@
- <a href="Logo_DATAUNIRIO"><img src="https://raw.githubusercontent.com/thiagoassantos/googlesheets-shinyapps/master/datauniriologo.png" align="left" height="300" width="300" ></a>
+ <a href="Logo_DATAUNIRIO"><img src="https://raw.githubusercontent.com/DATAUNIRIO/dataunirio.github.io/master/datauniriologo.png" align="left" height="300" width="300" ></a>
  
  
 ## DATAUNIRIO: Ciência de Dados, Transparência e Sociedade
